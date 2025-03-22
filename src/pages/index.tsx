@@ -17,7 +17,6 @@ export type Customer = {
 };
 
 export type Customers = Customer[];
-
 export type ApiError = {
   code: string;
   message: string;
